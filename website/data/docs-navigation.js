@@ -195,6 +195,7 @@ export default [
             content: ['compatibility'],
           },
           'uninstall',
+          'server-certificate-rotation',
           'tls-on-existing-cluster',
           'faq',
         ],
